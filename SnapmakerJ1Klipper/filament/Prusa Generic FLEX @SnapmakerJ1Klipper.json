@@ -1,0 +1,41 @@
+{
+    "type": "filament",
+    "name": "Prusa Generic FLEX @SnapmakerJ1Klipper",
+    "inherits": "fdm_filament_flex",
+    "from": "system",
+    "setting_id": "PaXKTb31IFVovWiK",
+    "instantiation": "true",
+    "filament_loading_speed_start": "3",
+    "filament_loading_speed": "28",
+    "filament_unloading_speed_start": "100",
+    "filament_unloading_speed": "90",
+    "filament_load_time": "0",
+    "filament_unload_time": "0",
+    "filament_cooling_moves": "4",
+    "filament_cooling_initial_speed": "2.2",
+    "filament_cooling_final_speed": "3.4",
+    "filament_retract_lift_below": "0.6",
+    "filament_multitool_ramming": [
+        "0"
+    ],
+    "filament_multitool_ramming_volume": [
+        "40"
+    ],
+    "filament_multitool_ramming_flow": [
+        "2.5"
+    ],
+    "compatible_printers": [
+        "SnapmakerJ1Klipper_0.2nozzle",
+        "SnapmakerJ1Klipper_0.4nozzle",
+        "SnapmakerJ1Klipper_0.6nozzle",
+        "SnapmakerJ1Klipper_0.8nozzle",
+        "SnapmakerJ1KlipperCopy_0.2nozzle",
+        "SnapmakerJ1KlipperCopy_0.4nozzle",
+        "SnapmakerJ1KlipperCopy_0.6nozzle",
+        "SnapmakerJ1KlipperCopy_0.8nozzle",
+        "SnapmakerJ1KlipperMirror_0.2nozzle",
+        "SnapmakerJ1KlipperMirror_0.4nozzle",
+        "SnapmakerJ1KlipperMirror_0.6nozzle",
+        "SnapmakerJ1KlipperMirror_0.8nozzle"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "type": "machine",
+    "from": "system",
+    "instantiation": "true",
+    "printer_technology": "FFF",
+    "gcode_flavor": "klipper",
+    "host_type": "octoprint",
+    "printable_height": "200",
+    "printable_area": [
+        "24x0",
+        "327x0",
+        "327x200",
+        "24x200"
+    ],
+    "default_filament_profile": [
+        "Prusa Generic PLA @SnapmakerJ1Klipper"
+    ],
+    "nozzle_type": "stainless_steel",
+    "name": "SnapmakerJ1KlipperCopy_0.8nozzle",
+    "printer_settings_id": "SnapmakerJ1KlipperCopy_0.8nozzle",
+    "printer_model": "SnapmakerJ1KlipperCopy",
+    "printer_variant": "0.8",
+    "nozzle_diameter": [
+        "0.8"
+    ],
+    "default_print_profile": "0.20mm Speed @SnapmakerJ1Klipper (0.8 nozzle) Klipper"
+}
