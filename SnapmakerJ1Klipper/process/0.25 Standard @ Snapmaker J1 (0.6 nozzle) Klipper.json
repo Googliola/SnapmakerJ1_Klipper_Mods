@@ -1,0 +1,14 @@
+{
+    "type": "process",
+    "name": "0.25 Standard @ Snapmaker J1 (0.6 nozzle) Klipper",
+    "from": "system",
+    "instantiation": "true",
+    "inherits": "fdm_process_j1_klipper_common",
+    "layer_height": "0.25",
+    "initial_layer_print_height": "0.28",
+    "compatible_printers": [
+        "Snapmaker J1 0.6 Nozzle Klipper IDEX",
+        "Snapmaker J1 0.6 Nozzle Klipper (Copy Mode)",
+        "Snapmaker J1 0.6 Nozzle Klipper (Mirror Mode)"
+    ]
+}
