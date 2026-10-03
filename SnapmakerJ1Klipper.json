@@ -1,70 +1,70 @@
 {
-    "name": "SnapmakerJ1Klipper",
-    "version": "99.99.99.99",
+    "name": "Snapmaker J1 Klipper",
+    "version": "02.04.00.06",
     "force_update": "0",
     "description": "Snapmaker J1 (IDEX) klipperized profiles",
     "machine_model_list": [
         {
-            "name": "SnapmakerJ1Klipper",
-            "sub_path": "machine/SnapmakerJ1Klipper.json"
+            "name": "Snapmaker J1 Klipper",
+            "sub_path": "machine/Snapmaker J1 Klipper.json"
         },
         {
-            "name": "SnapmakerJ1KlipperCopy",
-            "sub_path": "machine/SnapmakerJ1KlipperCopy.json"
+            "name": "Snapmaker J1 Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 Klipper (Copy Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperMirror",
-            "sub_path": "machine/SnapmakerJ1KlipperMirror.json"
+            "name": "Snapmaker J1 Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 Klipper (Mirror Mode).json"
         }
     ],
     "machine_list": [
         {
-            "name": "SnapmakerJ1Klipper_0.2nozzle",
-            "sub_path": "machine/SnapmakerJ1Klipper_0.2nozzle.json"
+            "name": "Snapmaker J1 0.4 Nozzle Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 0.4 Nozzle Klipper (Copy Mode).json"
         },
         {
-            "name": "SnapmakerJ1Klipper_0.4nozzle",
-            "sub_path": "machine/SnapmakerJ1Klipper_0.4nozzle.json"
+            "name": "Snapmaker J1 0.4 Nozzle Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 0.4 Nozzle Klipper (Mirror Mode).json"
         },
         {
-            "name": "SnapmakerJ1Klipper_0.6nozzle",
-            "sub_path": "machine/SnapmakerJ1Klipper_0.6nozzle.json"
+            "name": "Snapmaker J1 0.4 Nozzle Klipper IDEX",
+            "sub_path": "machine/Snapmaker J1 0.4 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "SnapmakerJ1Klipper_0.8nozzle",
-            "sub_path": "machine/SnapmakerJ1Klipper_0.8nozzle.json"
+            "name": "Snapmaker J1 0.2 Nozzle Klipper IDEX",
+            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "SnapmakerJ1KlipperCopy_0.2nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperCopy_0.2nozzle.json"
+            "name": "Snapmaker J1 0.6 Nozzle Klipper IDEX",
+            "sub_path": "machine/Snapmaker J1 0.6 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "SnapmakerJ1KlipperCopy_0.4nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperCopy_0.4nozzle.json"
+            "name": "Snapmaker J1 0.8 Nozzle Klipper IDEX",
+            "sub_path": "machine/Snapmaker J1 0.8 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "SnapmakerJ1KlipperCopy_0.6nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperCopy_0.6nozzle.json"
+            "name": "Snapmaker J1 0.2 Nozzle Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper (Copy Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperCopy_0.8nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperCopy_0.8nozzle.json"
+            "name": "Snapmaker J1 0.6 Nozzle Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 0.6 Nozzle Klipper (Copy Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperMirror_0.2nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperMirror_0.2nozzle.json"
+            "name": "Snapmaker J1 0.8 Nozzle Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 0.8 Nozzle Klipper (Copy Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperMirror_0.4nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperMirror_0.4nozzle.json"
+            "name": "Snapmaker J1 0.2 Nozzle Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper (Mirror Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperMirror_0.6nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperMirror_0.6nozzle.json"
+            "name": "Snapmaker J1 0.6 Nozzle Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 0.6 Nozzle Klipper (Mirror Mode).json"
         },
         {
-            "name": "SnapmakerJ1KlipperMirror_0.8nozzle",
-            "sub_path": "machine/SnapmakerJ1KlipperMirror_0.8nozzle.json"
+            "name": "Snapmaker J1 0.8 Nozzle Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 0.8 Nozzle Klipper (Mirror Mode).json"
         }
     ],
     "process_list": [
@@ -73,182 +73,102 @@
             "sub_path": "process/fdm_process_j1_klipper_common.json"
         },
         {
-            "name": "0.05mm Detail @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.05mm Detail @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "0.08 Extra Fine @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.08 Extra Fine @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.07mm Detail @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.07mm Detail @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "0.12 Fine @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.12 Fine @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.10mm FastDetail @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.10mm FastDetail @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
+            "name": "0.16 Normal @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.16 Normal @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.10mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.10mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
+            "name": "0.20 Fast @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.20 Fast @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.12mm Speed @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.12mm Speed @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "0.20 Standard @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.20 Standard @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.12mm Structural @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.12mm Structural @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "0.20 Strength @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.20 Strength @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.12mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.12mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
+            "name": "0.24 Draft @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.24 Draft @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.15mm Speed @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.15mm Speed @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "0.25 Benchy @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.25 Benchy @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.15mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.15mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
+            "name": "0.28 Extra Draft @ Snapmaker J1 (0.4 nozzle) Klipper",
+            "sub_path": "process/0.28 Extra Draft @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.15mm Structural @SnapmakerJ1Klipper (0.2 nozzle) Klipper",
-            "sub_path": "process/0.15mm Structural @SnapmakerJ1Klipper (0.2 nozzle) Klipper.json"
+            "name": "Standard @ Snapmaker J1 (0.2 nozzle) Klipper",
+            "sub_path": "process/Standard @ Snapmaker J1 (0.2 nozzle) Klipper.json"
         },
         {
-            "name": "0.15mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.15mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
+            "name": "Standard @ Snapmaker J1 (0.6 nozzle) Klipper",
+            "sub_path": "process/Standard @ Snapmaker J1 (0.6 nozzle) Klipper.json"
         },
         {
-            "name": "0.15mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.15mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.15mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.15mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.16mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.16mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.16mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.16mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.20mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.20mm Speed @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.20mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.20mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.20mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.20mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.20mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.20mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.25mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.25mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.25mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.25mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.25mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper",
-            "sub_path": "process/0.25mm Structural @SnapmakerJ1Klipper (0.4 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.25mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.25mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.25mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.25mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.30mm Detail @SnapmakerJ1Klipper (0.8 nozzle) Klipper",
-            "sub_path": "process/0.30mm Detail @SnapmakerJ1Klipper (0.8 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.32mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.32mm Speed @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.32mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper",
-            "sub_path": "process/0.32mm Structural @SnapmakerJ1Klipper (0.6 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.40mm Quality @SnapmakerJ1Klipper (0.8 nozzle) Klipper",
-            "sub_path": "process/0.40mm Quality @SnapmakerJ1Klipper (0.8 nozzle) Klipper.json"
-        },
-        {
-            "name": "0.55mm Draft @SnapmakerJ1Klipper (0.8 nozzle) Klipper",
-            "sub_path": "process/0.55mm Draft @SnapmakerJ1Klipper (0.8 nozzle) Klipper.json"
+            "name": "Standard @ Snapmaker J1 (0.8 nozzle) Klipper",
+            "sub_path": "process/Standard @ Snapmaker J1 (0.8 nozzle) Klipper.json"
         }
     ],
     "filament_list": [
         {
-            "name": "Prusa Generic ABS @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusa Generic ABS @SnapmakerJ1Klipper.json"
+            "name": "Generic ABS template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic ABS template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusa Generic FLEX @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusa Generic FLEX @SnapmakerJ1Klipper.json"
+            "name": "Generic ASA template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic ASA template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusa Generic PETG @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusa Generic PETG @SnapmakerJ1Klipper.json"
+            "name": "Generic HIPS template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic HIPS template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusa Generic PLA @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusa Generic PLA @SnapmakerJ1Klipper.json"
+            "name": "Generic PA template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PA template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament ASA @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament ASA @SnapmakerJ1Klipper.json"
+            "name": "Generic PET template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PET template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PA-CF @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PA-CF @SnapmakerJ1Klipper.json"
+            "name": "Generic PLA template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PLA template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PC Blend @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PC Blend @SnapmakerJ1Klipper.json"
+            "name": "Generic PLA template2 @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PLA template2 @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PC-CF @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PC-CF @SnapmakerJ1Klipper.json"
+            "name": "Generic PPA template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PPA template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PETG @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PETG @SnapmakerJ1Klipper.json"
+            "name": "Generic PPS template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PPS template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PLA @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PLA @SnapmakerJ1Klipper.json"
+            "name": "Generic PVA template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic PVA template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament PVB @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament PVB @SnapmakerJ1Klipper.json"
+            "name": "Generic TPU template @Snapmaker J1 0.4 nozzle",
+            "sub_path": "filament/Generic TPU template @Snapmaker J1 0.4 nozzle.json"
         },
         {
-            "name": "Prusament rPLA @SnapmakerJ1Klipper",
-            "sub_path": "filament/Prusament rPLA @SnapmakerJ1Klipper.json"
+            "name": "Snapmaker J1 - 0.4mm - Jayo PLA+",
+            "sub_path": "filament/Snapmaker J1 - 0.4mm - Jayo PLA+.json"
         }
     ]
 }
