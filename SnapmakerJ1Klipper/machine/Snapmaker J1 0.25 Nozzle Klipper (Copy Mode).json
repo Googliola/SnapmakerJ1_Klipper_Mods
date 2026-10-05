@@ -1,6 +1,6 @@
 {
     "type": "machine",
-    "name": "Snapmaker J1 0.2 Nozzle Klipper (Copy Mode)",
+    "name": "Snapmaker J1 0.25 Nozzle Klipper (Copy Mode)",
     "from": "system",
     "instantiation": "true",
     "printer_model": "Snapmaker J1 Klipper (Copy Mode)",
@@ -28,7 +28,7 @@
     "default_filament_profile": [
         "Generic PLA @System"
     ],
-    "default_print_profile": "Standard @ Snapmaker J1 (0.2 nozzle) Klipper",
+    "default_print_profile": "Standard @ Snapmaker J1 (0.25 nozzle) Klipper",
     "deretraction_speed": [
         "8"
     ],
@@ -145,7 +145,7 @@
     ],
     "min_resonance_avoidance_speed": "70",
     "nozzle_diameter": [
-        "0.2"
+        "0.25"
     ],
     "nozzle_height": "2.5",
     "nozzle_hrc": "0",

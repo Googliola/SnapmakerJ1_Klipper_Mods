@@ -31,8 +31,8 @@
             "sub_path": "machine/Snapmaker J1 0.4 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "Snapmaker J1 0.2 Nozzle Klipper IDEX",
-            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper IDEX.json"
+            "name": "Snapmaker J1 0.25 Nozzle Klipper IDEX",
+            "sub_path": "machine/Snapmaker J1 0.25 Nozzle Klipper IDEX.json"
         },
         {
             "name": "Snapmaker J1 0.6 Nozzle Klipper IDEX",
@@ -43,8 +43,8 @@
             "sub_path": "machine/Snapmaker J1 0.8 Nozzle Klipper IDEX.json"
         },
         {
-            "name": "Snapmaker J1 0.2 Nozzle Klipper (Copy Mode)",
-            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper (Copy Mode).json"
+            "name": "Snapmaker J1 0.25 Nozzle Klipper (Copy Mode)",
+            "sub_path": "machine/Snapmaker J1 0.25 Nozzle Klipper (Copy Mode).json"
         },
         {
             "name": "Snapmaker J1 0.6 Nozzle Klipper (Copy Mode)",
@@ -55,8 +55,8 @@
             "sub_path": "machine/Snapmaker J1 0.8 Nozzle Klipper (Copy Mode).json"
         },
         {
-            "name": "Snapmaker J1 0.2 Nozzle Klipper (Mirror Mode)",
-            "sub_path": "machine/Snapmaker J1 0.2 Nozzle Klipper (Mirror Mode).json"
+            "name": "Snapmaker J1 0.25 Nozzle Klipper (Mirror Mode)",
+            "sub_path": "machine/Snapmaker J1 0.25 Nozzle Klipper (Mirror Mode).json"
         },
         {
             "name": "Snapmaker J1 0.6 Nozzle Klipper (Mirror Mode)",
@@ -109,20 +109,20 @@
             "sub_path": "process/0.28 Extra Draft @ Snapmaker J1 (0.4 nozzle) Klipper.json"
         },
         {
-            "name": "0.06 Extra Fine @ Snapmaker J1 (0.2 nozzle) Klipper",
-            "sub_path": "process/0.06 Extra Fine @ Snapmaker J1 (0.2 nozzle) Klipper.json"
+            "name": "0.06 Extra Fine @ Snapmaker J1 (0.25 nozzle) Klipper",
+            "sub_path": "process/0.06 Extra Fine @ Snapmaker J1 (0.25 nozzle) Klipper.json"
         },
         {
-            "name": "0.08 Fine @ Snapmaker J1 (0.2 nozzle) Klipper",
-            "sub_path": "process/0.08 Fine @ Snapmaker J1 (0.2 nozzle) Klipper.json"
+            "name": "0.08 Fine @ Snapmaker J1 (0.25 nozzle) Klipper",
+            "sub_path": "process/0.08 Fine @ Snapmaker J1 (0.25 nozzle) Klipper.json"
         },
         {
-            "name": "0.10 Standard @ Snapmaker J1 (0.2 nozzle) Klipper",
-            "sub_path": "process/0.10 Standard @ Snapmaker J1 (0.2 nozzle) Klipper.json"
+            "name": "0.10 Standard @ Snapmaker J1 (0.25 nozzle) Klipper",
+            "sub_path": "process/0.10 Standard @ Snapmaker J1 (0.25 nozzle) Klipper.json"
         },
         {
-            "name": "0.12 Fast @ Snapmaker J1 (0.2 nozzle) Klipper",
-            "sub_path": "process/0.12 Fast @ Snapmaker J1 (0.2 nozzle) Klipper.json"
+            "name": "0.12 Fast @ Snapmaker J1 (0.25 nozzle) Klipper",
+            "sub_path": "process/0.12 Fast @ Snapmaker J1 (0.25 nozzle) Klipper.json"
         },
         {
             "name": "0.16 Fine @ Snapmaker J1 (0.6 nozzle) Klipper",

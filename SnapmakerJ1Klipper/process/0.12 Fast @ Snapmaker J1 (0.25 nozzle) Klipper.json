@@ -1,14 +1,14 @@
 {
     "type": "process",
-    "name": "0.12 Fast @ Snapmaker J1 (0.2 nozzle) Klipper",
+    "name": "0.12 Fast @ Snapmaker J1 (0.25 nozzle) Klipper",
     "from": "system",
     "instantiation": "true",
     "inherits": "fdm_process_j1_klipper_common",
     "layer_height": "0.12",
     "initial_layer_print_height": "0.2",
     "compatible_printers": [
-        "Snapmaker J1 0.2 Nozzle Klipper IDEX",
-        "Snapmaker J1 0.2 Nozzle Klipper (Copy Mode)",
-        "Snapmaker J1 0.2 Nozzle Klipper (Mirror Mode)"
+        "Snapmaker J1 0.25 Nozzle Klipper IDEX",
+        "Snapmaker J1 0.25 Nozzle Klipper (Copy Mode)",
+        "Snapmaker J1 0.25 Nozzle Klipper (Mirror Mode)"
     ]
 }
